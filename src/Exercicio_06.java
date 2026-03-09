@@ -40,13 +40,13 @@ public class Exercicio_06 {
 
 
         TRIANGULO = (A * C) / 2;
-        System.out.printf("TRIANGULO %.3f\n" , TRIANGULO);
+        System.out.printf("TRIANGULO: %.3f\n" , TRIANGULO);
 
         CIRCULO = 3.14159 * C * C;
-        System.out.printf("CIRCULO %.3f\n" , CIRCULO);
+        System.out.printf("CIRCULO: %.3f\n" , CIRCULO);
 
         TRAPEZIO = (A + B)  / 2 * C;
-        System.out.printf("TRAPÉZIO %.3f\n" , TRAPEZIO);
+        System.out.printf("TRAPÉZIO: %.3f\n" , TRAPEZIO);
 
         QUADRADO = B * 4;
         System.out.printf("QUADRADO: %.3f\n" , QUADRADO);
